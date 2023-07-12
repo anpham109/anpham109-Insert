@@ -1,0 +1,1 @@
+INSERT INTO song (title, artist) VALUES ('Just the Two of Us', 'Grover Washington Jr.');
